@@ -44,6 +44,15 @@ PAGE: PORTFOLIO
     clear: left;
   }
 
+    /**********************
+  PAGE: ABOUT
+  ***********************/
+
+  .profile-photo {
+    float: left;
+    margin: 0 5% 80px 0;
+  }
+
 }
 
 /**********************
