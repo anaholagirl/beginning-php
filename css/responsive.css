@@ -35,6 +35,15 @@ PAGE: PORTFOLIO
     width: 28.3333%;
   }
 
+  /**********************
+  clear left side of 4th image element
+  to fix layout glitch during responsive design
+  ***********************/
+
+  #gallery li:nth-child(4n) {
+    clear: left;
+  }
+
 }
 
 /**********************
